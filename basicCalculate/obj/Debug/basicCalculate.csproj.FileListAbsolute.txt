@@ -1,0 +1,8 @@
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\bin\Debug\Calculate.exe.config
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\bin\Debug\Calculate.exe
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\bin\Debug\Calculate.pdb
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\obj\Debug\basicCalculate.csproj.AssemblyReference.cache
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\obj\Debug\basicCalculate.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\obj\Debug\basicCalculate.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\obj\Debug\Calculate.exe
+C:\Projeler\C#\Başlangıç\Projeler\Calculate\obj\Debug\Calculate.pdb
